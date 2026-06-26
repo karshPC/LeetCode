@@ -8,6 +8,7 @@ A collection of LeetCode questions that I have worked on.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/karshPC/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/karshPC/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/karshPC/LeetCode/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/karshPC/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions that I have worked on.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/karshPC/LeetCode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/karshPC/LeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/karshPC/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions that I have worked on.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/karshPC/LeetCode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/karshPC/LeetCode/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
