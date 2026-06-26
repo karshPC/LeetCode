@@ -1,5 +1,5 @@
 # LeetCode
-A collection of LeetCode questions to ace the coding interview! 
+A collection of LeetCode questions that I have worked on.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
