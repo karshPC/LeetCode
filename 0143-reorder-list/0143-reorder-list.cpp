@@ -11,27 +11,25 @@
 class Solution {
 public:
     void reorderList(ListNode* head) {
-        
-        vector<ListNode*> nodes;
-        ListNode* temp = head;
+        vector<ListNode* > nodes;
 
+        ListNode* temp = head;
         while(temp){
             nodes.push_back(temp);
             temp = temp->next;
         }
 
-        int low = 0, high = nodes.size()-1;
+        int left = 0, right = nodes.size()-1;
 
-        while(low<high){
-            nodes[low]->next = nodes[high];
-            low++;
+        while(left<right){
+            nodes[left]->next = nodes[right];
+            left++;
 
-            if (low == high) break;
+            if (left==right) break;
 
-            nodes[high]->next = nodes[low];
-            high--;
-            
+            nodes[right]->next = nodes[left];
+            right--;
         }
-    nodes[low]->next = nullptr;
+    nodes[left]->next = nullptr;
     }
 };
