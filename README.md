@@ -6,6 +6,7 @@ A collection of LeetCode questions that I have worked on till date
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/karshPC/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/karshPC/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/karshPC/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/karshPC/LeetCode/tree/master/0217-contains-duplicate) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions that I have worked on till date
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/karshPC/LeetCode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/karshPC/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/karshPC/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/karshPC/LeetCode/tree/master/0219-contains-duplicate-ii) |
