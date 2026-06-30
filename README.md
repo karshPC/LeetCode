@@ -1,5 +1,5 @@
 # LeetCode
-A collection of LeetCode questions that I have worked on.
+A collection of LeetCode questions that I have worked on till date
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
