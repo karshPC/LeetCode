@@ -25,6 +25,7 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karshPC/LeetCode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/karshPC/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/karshPC/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/karshPC/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/karshPC/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -75,4 +76,12 @@ A collection of LeetCode questions that I have worked on till date
 | [0203-remove-linked-list-elements](https://github.com/karshPC/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/karshPC/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/karshPC/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/karshPC/LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/karshPC/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
