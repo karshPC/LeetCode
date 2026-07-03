@@ -11,11 +11,10 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        // Create a dummy node to hold the head of the new list
+
         ListNode dummy(0);
         ListNode* tail = &dummy;
-        
-        // Iterate while both lists have remaining nodes
+
         while (list1 != nullptr && list2 != nullptr) {
             if (list1->val <= list2->val) {
                 tail->next = list1;
@@ -27,10 +26,8 @@ public:
             tail = tail->next;
         }
         
-        // Append the remaining nodes of the non-empty list
         tail->next = (list1 != nullptr) ? list1 : list2;
         
-        // Return the actual head of the merged list
         return dummy.next;
     }
 };
