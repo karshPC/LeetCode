@@ -15,7 +15,7 @@ public:
             power = max(v3,v4);
 
             res = max(res, max(noPower, power));
-
+            
         }
     return res;
     }
