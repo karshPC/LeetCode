@@ -89,6 +89,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0203-remove-linked-list-elements](https://github.com/karshPC/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/karshPC/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/karshPC/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/karshPC/LeetCode/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions that I have worked on till date
 | ------- |
 | [0053-maximum-subarray](https://github.com/karshPC/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/karshPC/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/karshPC/LeetCode/tree/master/0509-fibonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/karshPC/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Design
 |  |
@@ -107,4 +109,12 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/karshPC/LeetCode/tree/master/0146-lru-cache) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/karshPC/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/karshPC/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
