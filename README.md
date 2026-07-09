@@ -31,6 +31,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0075-sort-colors](https://github.com/karshPC/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/karshPC/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/karshPC/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/karshPC/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/karshPC/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/karshPC/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/karshPC/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karshPC/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/karshPC/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/karshPC/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/karshPC/LeetCode/tree/master/0704-binary-search) |
 ## Bit Manipulation
