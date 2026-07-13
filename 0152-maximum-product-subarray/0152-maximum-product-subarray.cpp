@@ -1,20 +1,20 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        int minEnd = nums[0];
-        int maxEnd = nums[0];
-        int ans = nums[0];
+        int res = nums[0];
+        int maxCurrent = nums[0];
+        int minCurrent = nums[0];
 
-        for (int i =1; i<nums.size(); i++){
+        for(int i =1; i < nums.size(); i++){
             int v1 = nums[i];
-            int v2 = maxEnd * nums[i];
-            int v3 = minEnd * nums[i];
+            int v2 = maxCurrent * nums[i];
+            int v3 = minCurrent * nums[i];
 
-            maxEnd = max(v1, max(v2,v3));
-            minEnd = min(v1, min(v2,v3));
+            maxCurrent = max(v1,max(v2,v3));
+            minCurrent = min(v1,min(v2,v3));
 
-            ans = max(ans, max(maxEnd, minEnd));
+            res = max(res,max(maxCurrent,minCurrent));
         }
-    return ans;
+    return res;
     }
 };
