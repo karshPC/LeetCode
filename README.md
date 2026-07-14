@@ -43,6 +43,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0704-binary-search](https://github.com/karshPC/LeetCode/tree/master/0704-binary-search) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/karshPC/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1331-rank-transform-of-an-array](https://github.com/karshPC/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/karshPC/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karshPC/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0152-maximum-product-subarray](https://github.com/karshPC/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/karshPC/LeetCode/tree/master/0509-fibonacci-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/karshPC/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/karshPC/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karshPC/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Design
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/karshPC/LeetCode/tree/master/0509-fibonacci-number) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/karshPC/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Memoization
 |  |
 | ------- |
@@ -175,4 +178,8 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/karshPC/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/karshPC/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
