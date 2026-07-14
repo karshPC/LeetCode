@@ -17,6 +17,7 @@ A collection of LeetCode questions that I have worked on till date
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/karshPC/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/karshPC/LeetCode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/karshPC/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karshPC/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions that I have worked on till date
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/karshPC/LeetCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/karshPC/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/karshPC/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/karshPC/LeetCode/tree/master/0503-next-greater-element-ii) |
