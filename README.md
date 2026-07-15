@@ -37,6 +37,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karshPC/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/karshPC/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karshPC/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/karshPC/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/karshPC/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/karshPC/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/karshPC/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0075-sort-colors](https://github.com/karshPC/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/karshPC/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/karshPC/LeetCode/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/karshPC/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/karshPC/LeetCode/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/karshPC/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karshPC/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions that I have worked on till date
 | ------- |
 | [0053-maximum-subarray](https://github.com/karshPC/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/karshPC/LeetCode/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/karshPC/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -186,4 +189,12 @@ A collection of LeetCode questions that I have worked on till date
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/karshPC/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/karshPC/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/karshPC/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/karshPC/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
