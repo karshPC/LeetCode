@@ -9,12 +9,12 @@ public:
         }
 
         for(int i = n-k-1; i >=0; i--){
-            if(pq.top() >= nums[i]){
-                continue;
-            }
-            else{
+            if(pq.top() < nums[i]){
                 pq.pop();
                 pq.push(nums[i]);
+            }
+            else{
+                continue;
             }
         }
     return pq.top();
