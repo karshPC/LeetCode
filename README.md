@@ -54,6 +54,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0704-binary-search](https://github.com/karshPC/LeetCode/tree/master/0704-binary-search) |
 | [0973-k-closest-points-to-origin](https://github.com/karshPC/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/karshPC/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1260-shift-2d-grid](https://github.com/karshPC/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/karshPC/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/karshPC/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karshPC/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions that I have worked on till date
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/karshPC/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karshPC/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bucket Sort
 |  |
@@ -263,5 +265,6 @@ A collection of LeetCode questions that I have worked on till date
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/karshPC/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/karshPC/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
