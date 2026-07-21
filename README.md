@@ -26,6 +26,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0692-top-k-frequent-words](https://github.com/karshPC/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/karshPC/LeetCode/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karshPC/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/karshPC/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/karshPC/LeetCode/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/karshPC/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Monotonic Stack
 |  |
 | ------- |
