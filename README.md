@@ -21,6 +21,7 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/karshPC/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/karshPC/LeetCode/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/karshPC/LeetCode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/karshPC/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/karshPC/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions that I have worked on till date
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/karshPC/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/karshPC/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karshPC/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/karshPC/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -280,4 +282,8 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/karshPC/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/karshPC/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
