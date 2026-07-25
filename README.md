@@ -15,6 +15,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0219-contains-duplicate-ii](https://github.com/karshPC/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/karshPC/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/karshPC/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0491-non-decreasing-subsequences](https://github.com/karshPC/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/karshPC/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/karshPC/LeetCode/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/karshPC/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0219-contains-duplicate-ii](https://github.com/karshPC/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/karshPC/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/karshPC/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0491-non-decreasing-subsequences](https://github.com/karshPC/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0502-ipo](https://github.com/karshPC/LeetCode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/karshPC/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0658-find-k-closest-elements](https://github.com/karshPC/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/karshPC/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0491-non-decreasing-subsequences](https://github.com/karshPC/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/karshPC/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/karshPC/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karshPC/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -302,4 +305,5 @@ A collection of LeetCode questions that I have worked on till date
 | [0022-generate-parentheses](https://github.com/karshPC/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/karshPC/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/karshPC/LeetCode/tree/master/0046-permutations) |
+| [0491-non-decreasing-subsequences](https://github.com/karshPC/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 <!---LeetCode Topics End-->
