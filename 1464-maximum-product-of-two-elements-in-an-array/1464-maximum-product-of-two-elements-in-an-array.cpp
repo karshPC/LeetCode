@@ -7,7 +7,8 @@ public:
             if (x >= mx1) {
                 mx2 = mx1;
                 mx1 = x;
-            } else if (x > mx2) {
+            } 
+            else if (x > mx2) {
                 mx2 = x;
             }
         }
