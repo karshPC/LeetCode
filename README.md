@@ -32,6 +32,7 @@ A collection of LeetCode questions that I have worked on till date
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karshPC/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/karshPC/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/karshPC/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/karshPC/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions that I have worked on till date
 | [1331-rank-transform-of-an-array](https://github.com/karshPC/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/karshPC/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karshPC/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/karshPC/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karshPC/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/karshPC/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/karshPC/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
@@ -316,4 +318,8 @@ A collection of LeetCode questions that I have worked on till date
 | [0039-combination-sum](https://github.com/karshPC/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/karshPC/LeetCode/tree/master/0046-permutations) |
 | [0491-non-decreasing-subsequences](https://github.com/karshPC/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/karshPC/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
