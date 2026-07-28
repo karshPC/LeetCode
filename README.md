@@ -159,6 +159,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0020-valid-parentheses](https://github.com/karshPC/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/karshPC/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/karshPC/LeetCode/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/karshPC/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/karshPC/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/karshPC/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karshPC/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/karshPC/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/karshPC/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2685-count-the-number-of-complete-components](https://github.com/karshPC/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -331,8 +333,10 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/karshPC/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/karshPC/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/karshPC/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/karshPC/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
