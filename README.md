@@ -157,6 +157,7 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/karshPC/LeetCode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/karshPC/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/karshPC/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/karshPC/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/karshPC/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions that I have worked on till date
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/karshPC/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2685-count-the-number-of-complete-components](https://github.com/karshPC/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -325,4 +327,12 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/karshPC/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/karshPC/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/karshPC/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
