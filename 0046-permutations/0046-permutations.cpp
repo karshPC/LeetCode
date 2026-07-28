@@ -1,35 +1,33 @@
 class Solution {
 public:
+    int n;
 
-    void solve(vector<int> &nums, int idx, vector<int> &diary, vector<bool> &used,vector<vector<int>> &res){
-
-        if(idx == nums.size()){
-            res.push_back(diary);
+    void solve(vector<int> &nums, int idx, vector<bool> &used, vector<int> &curr, vector<vector<int>> &res){
+        if(idx == n){
+            res.push_back(curr);
             return;
         }
-
-        for (int i =0; i<nums.size(); i++){
+        
+        for (int i = 0; i < n; i++){
             if(used[i] == true) continue;
 
             used[i] = true;
-            diary.push_back(nums[i]);
-            solve(nums, idx+1, diary,used, res);
-            diary.pop_back();
+            curr.push_back(nums[i]);
+            solve(nums, idx+1, used, curr, res);
+            curr.pop_back();
             used[i] = false;
+        }
 
-        }    
-        
     return;
     }
 
     vector<vector<int>> permute(vector<int>& nums) {
         int idx = 0;
-        vector<int> diary;
-        
+        n = nums.size();
         vector<bool> used(nums.size(), false);
+        vector<int> curr;
         vector<vector<int>> res;
-
-        solve(nums, idx, diary, used, res);
+        solve(nums, idx, used, curr, res);
     return res;
     }
 };
