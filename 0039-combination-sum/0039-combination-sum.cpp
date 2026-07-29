@@ -1,37 +1,38 @@
 class Solution {
-public: 
+public:
 
-    void solve(vector<int>& candidates, int target, int idx, vector<int> &diary, vector<vector<int>> &res, int sum){
-
+    int n;
+    void solve(vector<int>&candidates, int target, int idx,int sum,vector<int>&curr,vector<vector<int>> &res){
         if(sum == target){
-            res.push_back(diary);
+            res.push_back(curr);
             return;
         }
-
-        if(idx == candidates.size()){
+        
+        if(idx == n){
             return;
         }
+        
+        solve(candidates, target, idx+1, sum, curr, res);
 
-        solve(candidates, target, idx+1, diary, res, sum); // Mat Lo
-
-        if(candidates[idx] + sum <= target){
-            diary.push_back(candidates[idx]);
+        if(candidates[idx]+ sum <= target){
+            curr.push_back(candidates[idx]);
             sum += candidates[idx];
-            solve(candidates, target, idx, diary, res, sum);
+            solve(candidates, target, idx, sum, curr, res);
             sum -= candidates[idx];
-            diary.pop_back();
+            curr.pop_back();
         }
 
     return;
     }
 
+
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        n = candidates.size();
         int idx = 0;
-        vector<int> diary;
+        int sum = 0;
+        vector<int> curr;
         vector<vector<int>> res;
-        int sum=0;
-        solve(candidates, target, idx, diary, res, sum);
-        
+        solve(candidates, target, idx, sum, curr, res);
     return res;
     }
 };
