@@ -11,45 +11,49 @@
  */
 class Solution {
 public:
+
     vector<vector<int>> res;
 
     void solve(TreeNode* node){
         if(node == nullptr) return;
+
         queue<TreeNode*> q;
-        
-        int leftToRight = 1; //ZigZag
         q.push(node);
+
+        int leftToRight = 1;
 
         while(!q.empty()){
             int levelSize = q.size();
-            vector<int> temp(levelSize);
+            vector<int> curr(levelSize);
             
-            int first = 0; // ZigZag
-            int last = levelSize -1; // ZigZag
+            int first = 0;
+            int last = levelSize -1;
 
             while(levelSize--){
                 TreeNode* t = q.front();
                 q.pop();
 
                 if(leftToRight){
-                    temp[first] = t->val;
+                    curr[first] = t->val;
                     first++;
                 }
                 else{
-                    temp[last] = t->val;
+                    curr[last] = t->val;
                     last--;
                 }
 
                 if(t->left != nullptr) q.push(t->left);
                 if(t->right != nullptr) q.push(t->right);
+
             }
-        res.push_back(temp);
+        res.push_back(curr);
         leftToRight = 1 - leftToRight;
         }
     return;
     }
 
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
+        if(root == nullptr) return {};
         solve(root);
     return res;
     }
