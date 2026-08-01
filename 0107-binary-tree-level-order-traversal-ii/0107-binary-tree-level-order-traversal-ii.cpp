@@ -10,6 +10,7 @@
  *         : val(x), left(left), right(right) {}
  * };
  */
+
 class Solution {
 public:
     void solve(TreeNode* node, deque<vector<int>>& res) {
