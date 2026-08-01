@@ -12,14 +12,17 @@
 class Solution {
 public:
 
-    void solve(TreeNode* node, vector<vector<int>> &res){
+    vector<vector<int>> res;
+
+    void solve(TreeNode* node){
+        if(node == nullptr) return;
         queue<TreeNode*> q;
         q.push(node);
 
         while(!q.empty()){
-            int lvlsize = q.size();
+            int levelSize = q.size();
             vector<int> temp;
-            for(int i = 0; i < lvlsize; i++){
+            while(levelSize--){
                 TreeNode* t = q.front();
                 q.pop();
 
@@ -27,6 +30,7 @@ public:
 
                 if(t->left != nullptr) q.push(t->left);
                 if(t->right != nullptr) q.push(t->right);
+
             }
         res.push_back(temp);
         }
@@ -35,8 +39,7 @@ public:
 
     vector<vector<int>> levelOrder(TreeNode* root) {
         if(root == nullptr) return {};
-        vector<vector<int>> res;
-        solve(root, res);
+        solve(root);
     return res;
     }
 };
