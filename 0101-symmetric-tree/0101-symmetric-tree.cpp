@@ -12,24 +12,20 @@
 class Solution {
 public:
 
-    bool isSymmetricII(TreeNode* left, TreeNode* right){
-        if (left == nullptr && right == nullptr) return true;
-
-        if (left == nullptr || right == nullptr) return false;
-
+    bool solve(TreeNode* left, TreeNode* right){
+        if(left == nullptr && right == nullptr) return true;
+        if(left == nullptr || right == nullptr) return false;
         if(left->val != right->val) return false;
 
-        bool caseOne = isSymmetricII(left->left, right->right);
-        bool caseTwo = isSymmetricII(left->right, right->left);
-
-    return caseOne && caseTwo;
+        bool check1 = solve(left->left, right->right);
+        bool check2 = solve(left->right, right->left);
+    return check1 && check2;
     }
 
     bool isSymmetric(TreeNode* root) {
         if (root == nullptr) return true;
         bool check = true;
-        check = isSymmetricII(root->left, root->right);
-        
-    return check;    
+        check = solve(root->left, root->right);
+    return check;
     }
 };
