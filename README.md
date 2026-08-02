@@ -48,6 +48,7 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karshPC/LeetCode/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/karshPC/LeetCode/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karshPC/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/karshPC/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/karshPC/LeetCode/tree/master/0046-permutations) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions that I have worked on till date
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/karshPC/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/karshPC/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/karshPC/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/karshPC/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions that I have worked on till date
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/karshPC/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/karshPC/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/karshPC/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/karshPC/LeetCode/tree/master/0148-sort-list) |
