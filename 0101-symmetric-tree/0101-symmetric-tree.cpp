@@ -9,32 +9,27 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
 class Solution {
 public:
 
-    bool isSymmetricII(TreeNode* nodeLeft, TreeNode* nodeRight){
+    bool isSymmetricII(TreeNode* left, TreeNode* right){
+        if (left == nullptr && right == nullptr) return true;
 
-        if(nodeLeft == nullptr && nodeRight == nullptr)
-            return true;
+        if (left == nullptr || right == nullptr) return false;
 
-        if(nodeLeft == nullptr || nodeRight == nullptr)
-            return false;
+        if(left->val != right->val) return false;
 
-        if(nodeLeft->val != nodeRight->val)
-            return false;
+        bool caseOne = isSymmetricII(left->left, right->right);
+        bool caseTwo = isSymmetricII(left->right, right->left);
 
-        bool left = isSymmetricII(nodeLeft->left, nodeRight->right);
-        bool right = isSymmetricII(nodeLeft->right, nodeRight->left);
-
-        return left && right;
+    return caseOne && caseTwo;
     }
 
     bool isSymmetric(TreeNode* root) {
-
-        if(root == nullptr)
-            return true;
-
-        return isSymmetricII(root->left, root->right);
+        if (root == nullptr) return true;
+        bool check = true;
+        check = isSymmetricII(root->left, root->right);
+        
+    return check;    
     }
 };
