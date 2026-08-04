@@ -15,39 +15,36 @@ public:
     vector<vector<int>> res;
 
     void solve(TreeNode* node){
-        if(node == nullptr) return;
-
         queue<TreeNode*> q;
         q.push(node);
-
-        int leftToRight = 1;
+        bool leftToRight = true;
 
         while(!q.empty()){
             int levelSize = q.size();
-            vector<int> curr(levelSize);
+            vector<int> temp(levelSize);
             
-            int first = 0;
-            int last = levelSize -1;
-
+            int start = 0;
+            int end = levelSize-1;
+            
             while(levelSize--){
                 TreeNode* t = q.front();
                 q.pop();
 
                 if(leftToRight){
-                    curr[first] = t->val;
-                    first++;
+                    temp[start] = t->val;
+                    start++;
                 }
                 else{
-                    curr[last] = t->val;
-                    last--;
+                    temp[end] = t->val;
+                    end--;
                 }
 
                 if(t->left != nullptr) q.push(t->left);
-                if(t->right != nullptr) q.push(t->right);
-
+                if(t->right!= nullptr) q.push(t->right);
             }
-        res.push_back(curr);
-        leftToRight = 1 - leftToRight;
+            
+            res.push_back(temp);
+            leftToRight = !leftToRight;
         }
     return;
     }
