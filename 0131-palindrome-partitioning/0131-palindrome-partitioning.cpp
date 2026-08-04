@@ -1,6 +1,7 @@
 class Solution {
 public:
-    int n;
+
+    vector<vector<string>> res;
     
     bool isPalindrome(string &s, int left, int right){
         while(left < right){
@@ -11,28 +12,27 @@ public:
     return true;
     }
 
-    void solve(string &s, int idx, vector<string> &temp, vector<vector<string>> &res){
-        if (idx == n){
+    void solve(string &s, int idx, vector<string>&temp){
+        if(idx == s.size()){
             res.push_back(temp);
             return;
         }
 
-        for (int i = idx; i < n; i++){
-            if (isPalindrome(s, idx, i)){
+        for(int i =idx; i<s.size(); i++){
+            if(isPalindrome(s, idx, i)){
                 temp.push_back(s.substr(idx, i - idx + 1));
-                solve(s, i+1, temp, res);
+                solve(s, i+1, temp);
                 temp.pop_back();
             }
         }
+
     return;
     }
-    
+
     vector<vector<string>> partition(string s) {
-        vector<string> temp;
-        vector<vector<string>> res;
-        n = s.size();
+        vector<string> temp;   
         int idx = 0;
-        solve(s, idx, temp, res);
-    return res;
+        solve(s, idx, temp);
+    return res;    
     }
 };
