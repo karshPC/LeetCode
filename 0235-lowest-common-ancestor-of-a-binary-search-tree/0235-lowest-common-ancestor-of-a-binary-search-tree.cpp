@@ -10,30 +10,17 @@
 
 class Solution {
 public:
-
-    TreeNode* ans = nullptr;
-
-    int solve(TreeNode* node, TreeNode *p, TreeNode *q){
-        if(!node) return 0;
-
-        int left = solve(node->left, p,q);
-        int right = solve(node->right,p,q);
-
-        int self = 0;
-        if(node == p || node == q){
-            self = 1;
-        }
-        int total = left + right + self;
-        
-        if(total == 2 && !ans){
-            ans = node;
-        }
-
-        return min(total, 2);
-    }
-
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        solve(root, p, q);
-    return ans;
+        if(!root) return nullptr;
+
+        if(root->val > p->val && root->val > q->val){
+            return lowestCommonAncestor(root->left, p ,q);
+        }
+
+        if(root->val < p->val && q->val > root->val){
+            return lowestCommonAncestor(root->right, p, q);
+        }
+
+        return root;
     }
 };
