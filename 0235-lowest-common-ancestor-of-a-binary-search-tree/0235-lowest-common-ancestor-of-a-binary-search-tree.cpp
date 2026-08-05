@@ -21,10 +21,6 @@ public:
             return lowestCommonAncestor(root->left,p,q);
         }
 
-        if((root->val > p->val && root->val < q->val) || (root->val > q->val && root->val <p->val)){
-            return root;
-        }
-
-    return root->left->right->left->right->left->right->left->left;
+    return root;
     }
 };
