@@ -41,8 +41,8 @@ public:
 
         unordered_map<int,int> found;        
         int n = nodes.size();
-        vector<int> map = findTarget(found, n, k);
+        vector<int> res = findTarget(found, n, k);
         
-        return (map.size() == 2) ? true : false;
+        return (res.size() == 2) ? true : false;
     }
 };
