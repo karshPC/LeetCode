@@ -13,19 +13,17 @@ class Solution {
 public:
 
     bool solve(TreeNode* left, TreeNode* right){
-        if(left == nullptr && right == nullptr) return true;
-        if(left == nullptr || right == nullptr) return false;
+        if(!left && !right) return true;
+        if(!left || !right) return false;
         if(left->val != right->val) return false;
+        bool leftCheck = solve(left->left, right->right);
+        bool rightCheck = solve(left->right, right->left);
 
-        bool check1 = solve(left->left, right->right);
-        bool check2 = solve(left->right, right->left);
-    return check1 && check2;
+        return leftCheck && rightCheck;
     }
 
     bool isSymmetric(TreeNode* root) {
-        if (root == nullptr) return true;
-        bool check = true;
-        check = solve(root->left, root->right);
-    return check;
+        if(root == nullptr) return true;
+    return solve(root->left, root->right);
     }
 };
