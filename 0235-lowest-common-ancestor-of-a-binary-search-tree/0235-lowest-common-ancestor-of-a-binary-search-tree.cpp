@@ -25,6 +25,6 @@ public:
             return root;
         }
 
-    return root->left;
+    return root->left->left->left;
     }
 };
