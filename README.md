@@ -251,6 +251,7 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/karshPC/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/karshPC/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karshPC/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
@@ -263,6 +264,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0145-binary-tree-postorder-traversal](https://github.com/karshPC/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/karshPC/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/karshPC/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/karshPC/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/karshPC/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/karshPC/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/karshPC/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/karshPC/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
