@@ -13,26 +13,24 @@ public:
     TreeNode* ans = nullptr;
 
     int solve(TreeNode* node, TreeNode* p, TreeNode* q){
-        if(!node){
-            return 0;
+        if(!node) return 0;
+
+        int left = solve(node->left, p, q);
+        int right = solve(node->right, p, q);
+
+        int self = 0;
+        if(node == p || node == q){
+            self = 1;
         }
 
-        int leftCheck = solve(node->left, p,q);
-        int rightCheck = solve(node->right, p, q);
-
-        int self =0;
-        if(node == q || node == p){
-            self =1;
-        }
-
-        int total = leftCheck + rightCheck + self;
+        int total = left+ right+ self;
 
         if(total == 2 && !ans){
             ans = node;
         }
-        
-    return min(total, 2);;
+    return total;
     }
+    
 
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
         solve(root, p, q);
