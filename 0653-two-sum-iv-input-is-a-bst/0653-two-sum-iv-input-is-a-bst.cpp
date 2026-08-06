@@ -27,17 +27,20 @@ public:
     bool findTarget(TreeNode* root, int k) {
         inOrder(root);
 
-        unordered_map<int,int> found;        
-        int n = nodes.size();
-        
-        for(int i = 0 ; i < n; i++){
-            int needed = k - nodes[i];
-            if(found.find(needed) != found.end()){
+        int left = 0;
+        int right = nodes.size() -1;
+
+        while(left < right){
+            if(nodes[left] + nodes[right] == k){
                 return true;
             }
-            found[nodes[i]] = i;
-        }
-
-    return false;       
+            else if(nodes[left] + nodes[right] <k){
+                left++;
+            }
+            else if(nodes[left] + nodes[right] > k){
+                right--;
+            }
+        }        
+    return false;
     }
 };
