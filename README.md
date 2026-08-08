@@ -439,4 +439,8 @@ A collection of LeetCode questions that I have worked on till date
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karshPC/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/karshPC/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/karshPC/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/karshPC/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
