@@ -6,41 +6,78 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right)
+ *         : val(x), left(left), right(right) {}
  * };
  */
+
 class Solution {
 public:
-
-    vector<int> nodes;
-
-    void inOrder(TreeNode* node){
-        if(!node) return;
-
-        inOrder(node->left);
-        nodes.push_back(node->val);
-        inOrder(node->right);
     
-    return;
+    stack <TreeNode*> asc;
+    stack <TreeNode*> dsc;
+
+    TreeNode* getSmall(){
+        if(asc.empty()) return nullptr;
+
+        TreeNode* small = asc.top();
+        asc.pop();
+        
+        TreeNode* right = small->right;
+        while(right){
+            asc.push(right);
+            right = right->left;
+        }
+        
+        return small;
+    }
+
+    TreeNode* getBig(){
+        if(dsc.empty()) return nullptr;
+        
+        TreeNode* big = dsc.top();
+        dsc.pop();
+
+        TreeNode* left = big->left;
+        while(left){
+            dsc.push(left);
+            left = left->right;
+        }
+    return big;
     }
 
     bool findTarget(TreeNode* root, int k) {
-        inOrder(root);
+        TreeNode* t = root;
+        while(t){
+            asc.push(t);
+            t = t->left;    
+        }
 
-        int left = 0;
-        int right = nodes.size() -1;
+        t = root;
 
-        while(left < right){
-            if(nodes[left] + nodes[right] == k){
+        while(t){
+            dsc.push(t);
+            t = t->right;
+        }
+
+        TreeNode* i = getSmall();
+        TreeNode* j = getBig();
+
+        while(i && j && i != j && i->val < j->val){
+            int sum = i->val + j->val;
+            if(sum == k){
                 return true;
             }
-            else if(nodes[left] + nodes[right] <k){
-                left++;
+            
+            else if(i->val + j->val < k){
+                i = getSmall();
             }
-            else if(nodes[left] + nodes[right] > k){
-                right--;
+
+            else{
+                j = getBig();
             }
-        }        
+        }
+
     return false;
     }
 };
