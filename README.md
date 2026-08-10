@@ -211,6 +211,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0509-fibonacci-number](https://github.com/karshPC/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/karshPC/LeetCode/tree/master/0877-stone-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/karshPC/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1510-stone-game-iv](https://github.com/karshPC/LeetCode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/karshPC/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/karshPC/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karshPC/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0628-maximum-product-of-three-numbers](https://github.com/karshPC/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/karshPC/LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/karshPC/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1510-stone-game-iv](https://github.com/karshPC/LeetCode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karshPC/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/karshPC/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/karshPC/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/karshPC/LeetCode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/karshPC/LeetCode/tree/master/1510-stone-game-iv) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -448,4 +451,20 @@ A collection of LeetCode questions that I have worked on till date
 | ------- |
 | [0141-linked-list-cycle](https://github.com/karshPC/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/karshPC/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/karshPC/LeetCode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/karshPC/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/karshPC/LeetCode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/karshPC/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
