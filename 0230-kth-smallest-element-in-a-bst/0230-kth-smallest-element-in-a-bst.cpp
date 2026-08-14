@@ -12,24 +12,26 @@
 class Solution {
 public:
 
-    vector<int> result; // 1 2 3 4
+    priority_queue<int> pq;
 
-    void solve(TreeNode* node){
+    void solve(TreeNode* node, int k){
         if(node == nullptr) return;
+        
+        pq.push(node->val);
 
-        solve(node->left);
-        result.push_back(node->val);
-        solve(node->right);
+        if(pq.size() >k){
+            pq.pop();
+        }
+
+        solve(node->left, k);
+        solve(node->right, k);
     
     return;
     }
 
     int kthSmallest(TreeNode* root, int k) {
         if(root == nullptr) return 0;
-        solve(root);
-
-        int n = result.size();
-
-    return result[k-1];
+        solve(root, k);
+    return pq.top();
     }   
 };
