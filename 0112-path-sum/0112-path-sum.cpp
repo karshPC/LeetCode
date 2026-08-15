@@ -11,8 +11,8 @@
  */
 class Solution {
 public:
-
-    bool result;
+   
+    bool result = false;
 
     void solve(TreeNode* node, int sum, int targetSum){
         if(node == nullptr) return;
@@ -20,7 +20,7 @@ public:
         sum += node->val;
 
         if(node->left == nullptr && node->right == nullptr){
-            if(sum == targetSum){
+            if(sum == targetSum) {
                 result = true;
             }
         }
@@ -30,9 +30,9 @@ public:
 
     return;
     }
-   
+
     bool hasPathSum(TreeNode* root, int targetSum) {
-        if(!root) return false;
+        if(root == nullptr) return false;
         solve(root, 0, targetSum);
     return result;
     }
