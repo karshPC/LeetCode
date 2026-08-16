@@ -6,8 +6,7 @@ public:
     void solve(string& s, int idx, int count) {
         if (count == 4) {
             if (idx == s.size()) {
-                ans.push_back(parts[0] + "." + parts[1] + "." +
-                              parts[2] + "." + parts[3]);
+                ans.push_back(parts[0] + "." + parts[1] + "." + parts[2] + "." + parts[3]);
             }
             return;
         }
