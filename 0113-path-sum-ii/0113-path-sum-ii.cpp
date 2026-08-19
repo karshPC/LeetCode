@@ -15,24 +15,21 @@ public:
     vector<vector<int>> result;
 
     void solve(TreeNode* node, vector<int> &temp,int sum, int targetSum){
-        if(node == nullptr) return;
+        if(!node) return;
 
+        sum += node->val;
         temp.push_back(node->val);
-        sum+= node->val;
-
 
         if(node->left == nullptr && node->right == nullptr){
             if(sum == targetSum){
                 result.push_back(temp);
             }
         }
-        
+
         solve(node->left, temp, sum, targetSum);
         solve(node->right, temp, sum, targetSum);
 
         temp.pop_back();
-
-    return;
     }
 
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
