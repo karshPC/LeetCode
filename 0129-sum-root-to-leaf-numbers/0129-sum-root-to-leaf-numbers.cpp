@@ -12,36 +12,19 @@
 class Solution {
 public:
 
-    int sum =0;
-    vector<int> diary;
+    int solve(TreeNode* node, int sum){
+        if(!node) return 0;
 
-
-    void calculateSum(){
-        int n = diary.size();
-        for(int i = 0; i < n; i++){
-            sum += diary[i];
-        }
-    return;
-    }
-
-    void solve(TreeNode* node, int localSum){
-        if(!node) return;
-
-        localSum = localSum * 10 + node->val;
+        sum = sum * 10 + node->val;
 
         if(node->left == nullptr && node->right == nullptr){
-            diary.push_back(localSum);
+            return sum;
         }
 
-        solve(node->left, localSum);
-        solve(node->right, localSum);
-
-    return;
+    return solve(node->left, sum) + solve(node->right, sum);
     }
 
     int sumNumbers(TreeNode* root) {
-        solve(root, 0);
-        calculateSum();
-    return sum;
+        return solve(root, 0);
     }
 };
