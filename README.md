@@ -126,6 +126,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0148-sort-list](https://github.com/karshPC/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/karshPC/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/karshPC/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/karshPC/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/karshPC/LeetCode/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/karshPC/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/karshPC/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0148-sort-list](https://github.com/karshPC/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karshPC/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/karshPC/LeetCode/tree/master/0217-contains-duplicate) |
+| [0295-find-median-from-data-stream](https://github.com/karshPC/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/karshPC/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/karshPC/LeetCode/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karshPC/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/karshPC/LeetCode/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/karshPC/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -371,6 +374,7 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/karshPC/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/karshPC/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/karshPC/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/karshPC/LeetCode/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/karshPC/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -551,4 +555,8 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/karshPC/LeetCode/tree/master/1872-stone-game-viii) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/karshPC/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
