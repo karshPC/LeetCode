@@ -71,6 +71,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0039-combination-sum](https://github.com/karshPC/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/karshPC/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/karshPC/LeetCode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/karshPC/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/karshPC/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/karshPC/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karshPC/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions that I have worked on till date
 | ------- |
 | [0022-generate-parentheses](https://github.com/karshPC/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/karshPC/LeetCode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/karshPC/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/karshPC/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karshPC/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/karshPC/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions that I have worked on till date
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/karshPC/LeetCode/tree/master/0064-minimum-path-sum) |
 | [1260-shift-2d-grid](https://github.com/karshPC/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/karshPC/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Segment Tree
