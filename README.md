@@ -262,6 +262,7 @@ A collection of LeetCode questions that I have worked on till date
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/karshPC/LeetCode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/karshPC/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/karshPC/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karshPC/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
