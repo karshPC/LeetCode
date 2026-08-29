@@ -175,6 +175,7 @@ A collection of LeetCode questions that I have worked on till date
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/karshPC/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karshPC/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/karshPC/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/karshPC/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/karshPC/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karshPC/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karshPC/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0973-k-closest-points-to-origin](https://github.com/karshPC/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/karshPC/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karshPC/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/karshPC/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/karshPC/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Quickselect
 |  |
