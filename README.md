@@ -20,6 +20,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/karshPC/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/karshPC/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/karshPC/LeetCode/tree/master/0767-reorganize-string) |
+| [1189-maximum-number-of-balloons](https://github.com/karshPC/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1202-smallest-string-with-swaps](https://github.com/karshPC/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1331-rank-transform-of-an-array](https://github.com/karshPC/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/karshPC/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0692-top-k-frequent-words](https://github.com/karshPC/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/karshPC/LeetCode/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karshPC/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/karshPC/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1202-smallest-string-with-swaps](https://github.com/karshPC/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1927-sum-game](https://github.com/karshPC/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/karshPC/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0347-top-k-frequent-elements](https://github.com/karshPC/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/karshPC/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/karshPC/LeetCode/tree/master/0767-reorganize-string) |
+| [1189-maximum-number-of-balloons](https://github.com/karshPC/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2029-stone-game-ix](https://github.com/karshPC/LeetCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karshPC/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/karshPC/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
