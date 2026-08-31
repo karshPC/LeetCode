@@ -80,6 +80,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karshPC/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/karshPC/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/karshPC/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/karshPC/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/karshPC/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/karshPC/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/karshPC/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/karshPC/LeetCode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/karshPC/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/karshPC/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/karshPC/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/karshPC/LeetCode/tree/master/0070-climbing-stairs) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions that I have worked on till date
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/karshPC/LeetCode/tree/master/0045-jump-game-ii) |
 | [0502-ipo](https://github.com/karshPC/LeetCode/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/karshPC/LeetCode/tree/master/0767-reorganize-string) |
 | [1386-cinema-seat-allocation](https://github.com/karshPC/LeetCode/tree/master/1386-cinema-seat-allocation) |
