@@ -61,6 +61,7 @@ A collection of LeetCode questions that I have worked on till date
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/karshPC/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/karshPC/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/karshPC/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3838-weighted-word-mapping](https://github.com/karshPC/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions that I have worked on till date
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karshPC/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3731-find-missing-elements](https://github.com/karshPC/LeetCode/tree/master/3731-find-missing-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/karshPC/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
+| [3838-weighted-word-mapping](https://github.com/karshPC/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karshPC/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -435,6 +437,7 @@ A collection of LeetCode questions that I have worked on till date
 | ------- |
 | [1260-shift-2d-grid](https://github.com/karshPC/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/karshPC/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3838-weighted-word-mapping](https://github.com/karshPC/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karshPC/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bucket Sort
 |  |
