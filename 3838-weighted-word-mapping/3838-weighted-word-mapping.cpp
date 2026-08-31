@@ -12,8 +12,6 @@ public:
 
             int idx = sum % 26;
 
-            // Reverse alphabetical order:
-            // 0 -> z, 1 -> y, ..., 25 -> a
             ans += char('z' - idx);
         }
 
