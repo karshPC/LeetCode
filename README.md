@@ -107,6 +107,7 @@ A collection of LeetCode questions that I have worked on till date
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/karshPC/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1202-smallest-string-with-swaps](https://github.com/karshPC/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1260-shift-2d-grid](https://github.com/karshPC/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1306-jump-game-iii](https://github.com/karshPC/LeetCode/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/karshPC/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/karshPC/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/karshPC/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karshPC/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/karshPC/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1202-smallest-string-with-swaps](https://github.com/karshPC/LeetCode/tree/master/1202-smallest-string-with-swaps) |
+| [1306-jump-game-iii](https://github.com/karshPC/LeetCode/tree/master/1306-jump-game-iii) |
 | [2685-count-the-number-of-complete-components](https://github.com/karshPC/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/karshPC/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -381,6 +383,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0226-invert-binary-tree](https://github.com/karshPC/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/karshPC/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1202-smallest-string-with-swaps](https://github.com/karshPC/LeetCode/tree/master/1202-smallest-string-with-swaps) |
+| [1306-jump-game-iii](https://github.com/karshPC/LeetCode/tree/master/1306-jump-game-iii) |
 | [2685-count-the-number-of-complete-components](https://github.com/karshPC/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/karshPC/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
