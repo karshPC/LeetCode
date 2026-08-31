@@ -14,7 +14,6 @@ public:
         while (curr && curr->next) {
             int nextVal = curr->next->val;
 
-            // Local maximum or local minimum
             if ((curr->val > prev->val && curr->val > nextVal) ||
                 (curr->val < prev->val && curr->val < nextVal)) {
 
@@ -32,7 +31,6 @@ public:
             pos++;
         }
 
-        // Fewer than two critical points
         if (first == -1 || first == last)
             return ans;
 
