@@ -137,6 +137,7 @@ A collection of LeetCode questions that I have worked on till date
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/karshPC/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3838-weighted-word-mapping](https://github.com/karshPC/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karshPC/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/karshPC/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -321,6 +322,7 @@ A collection of LeetCode questions that I have worked on till date
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/karshPC/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/karshPC/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karshPC/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/karshPC/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Memoization
 |  |
 | ------- |
