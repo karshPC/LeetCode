@@ -37,6 +37,7 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/karshPC/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/karshPC/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/karshPC/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/karshPC/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/karshPC/LeetCode/tree/master/0022-generate-parentheses) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions that I have worked on till date
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/karshPC/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/karshPC/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/karshPC/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/karshPC/LeetCode/tree/master/0203-remove-linked-list-elements) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/karshPC/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/karshPC/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/karshPC/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/karshPC/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/karshPC/LeetCode/tree/master/0053-maximum-subarray) |
