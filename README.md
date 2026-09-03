@@ -138,6 +138,7 @@ A collection of LeetCode questions that I have worked on till date
 | [3838-weighted-word-mapping](https://github.com/karshPC/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karshPC/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/karshPC/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/karshPC/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -325,6 +326,7 @@ A collection of LeetCode questions that I have worked on till date
 | [3658-gcd-of-odd-and-even-sums](https://github.com/karshPC/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karshPC/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/karshPC/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/karshPC/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Memoization
 |  |
 | ------- |
