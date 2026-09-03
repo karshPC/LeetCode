@@ -36,6 +36,7 @@ A collection of LeetCode questions that I have worked on till date
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/karshPC/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/karshPC/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/karshPC/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/karshPC/LeetCode/tree/master/0022-generate-parentheses) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions that I have worked on till date
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/karshPC/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/karshPC/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/karshPC/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/karshPC/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions that I have worked on till date
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/karshPC/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/karshPC/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/karshPC/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/karshPC/LeetCode/tree/master/0053-maximum-subarray) |
@@ -623,4 +626,8 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/karshPC/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/karshPC/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
