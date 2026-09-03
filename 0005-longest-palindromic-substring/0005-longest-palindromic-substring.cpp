@@ -1,32 +1,33 @@
 class Solution {
 public:
-    std::string longestPalindrome(std::string s) {
-        if (s.length() <= 1) {
-            return s;
-        }
-
-        auto expand_from_center = [&](int left, int right) {
-            while (left >= 0 && right < s.length() && s[left] == s[right]) {
-                left--;
-                right++;
+    string longestPalindrome(string s) {
+        if (s.empty()) return "";
+        
+        int start = 0, end = 0;
+        
+        for (int i = 0; i < s.length(); i++) {
+            auto [l1, r1] = expand(s, i, i);
+            if (r1 - l1 > end - start) {
+                start = l1;
+                end = r1;
             }
-            return s.substr(left + 1, right - left - 1);
-        };
-
-        std::string max_str = s.substr(0, 1);
-
-        for (int i = 0; i < s.length() - 1; i++) {
-            std::string odd = expand_from_center(i, i);
-            std::string even = expand_from_center(i, i + 1);
-
-            if (odd.length() > max_str.length()) {
-                max_str = odd;
-            }
-            if (even.length() > max_str.length()) {
-                max_str = even;
+            
+            auto [l2, r2] = expand(s, i, i + 1);
+            if (r2 - l2 > end - start) {
+                start = l2;
+                end = r2;
             }
         }
-
-        return max_str;
+        
+        return s.substr(start, end - start + 1);
+    }
+    
+private:
+    pair<int, int> expand(const string& s, int left, int right) {
+        while (left >= 0 && right < s.length() && s[left] == s[right]) {
+            left--;
+            right++;
+        }
+        return {left + 1, right - 1};
     }
 };
