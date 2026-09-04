@@ -513,6 +513,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0046-permutations](https://github.com/karshPC/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/karshPC/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/karshPC/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/karshPC/LeetCode/tree/master/0052-n-queens-ii) |
 | [0093-restore-ip-addresses](https://github.com/karshPC/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/karshPC/LeetCode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/karshPC/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -646,4 +647,5 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/karshPC/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/karshPC/LeetCode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
