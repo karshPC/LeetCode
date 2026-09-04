@@ -41,6 +41,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0017-letter-combinations-of-a-phone-number](https://github.com/karshPC/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/karshPC/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/karshPC/LeetCode/tree/master/0022-generate-parentheses) |
+| [0071-simplify-path](https://github.com/karshPC/LeetCode/tree/master/0071-simplify-path) |
 | [0093-restore-ip-addresses](https://github.com/karshPC/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/karshPC/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/karshPC/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/karshPC/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/karshPC/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/karshPC/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/karshPC/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/karshPC/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
