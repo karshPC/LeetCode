@@ -43,6 +43,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0022-generate-parentheses](https://github.com/karshPC/LeetCode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/karshPC/LeetCode/tree/master/0071-simplify-path) |
 | [0093-restore-ip-addresses](https://github.com/karshPC/LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/karshPC/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/karshPC/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/karshPC/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0344-reverse-string](https://github.com/karshPC/LeetCode/tree/master/0344-reverse-string) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0053-maximum-subarray](https://github.com/karshPC/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/karshPC/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/karshPC/LeetCode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/karshPC/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karshPC/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/karshPC/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/karshPC/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
