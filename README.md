@@ -115,6 +115,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0747-largest-number-at-least-twice-of-others](https://github.com/karshPC/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/karshPC/LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/karshPC/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/karshPC/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/karshPC/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1202-smallest-string-with-swaps](https://github.com/karshPC/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1260-shift-2d-grid](https://github.com/karshPC/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/karshPC/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/karshPC/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/karshPC/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/karshPC/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/karshPC/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/karshPC/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/karshPC/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0747-largest-number-at-least-twice-of-others](https://github.com/karshPC/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0767-reorganize-string](https://github.com/karshPC/LeetCode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/karshPC/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/karshPC/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1202-smallest-string-with-swaps](https://github.com/karshPC/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1331-rank-transform-of-an-array](https://github.com/karshPC/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/karshPC/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
