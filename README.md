@@ -406,6 +406,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/karshPC/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1202-smallest-string-with-swaps](https://github.com/karshPC/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1306-jump-game-iii](https://github.com/karshPC/LeetCode/tree/master/1306-jump-game-iii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/karshPC/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/karshPC/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/karshPC/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -561,6 +562,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karshPC/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/karshPC/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/karshPC/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/karshPC/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -584,6 +586,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karshPC/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/karshPC/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/karshPC/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/karshPC/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Combinatorics
 |  |
 | ------- |
