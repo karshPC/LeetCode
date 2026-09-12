@@ -72,6 +72,7 @@ A collection of LeetCode questions that I have worked on till date
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/karshPC/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/karshPC/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/karshPC/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/karshPC/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0152-maximum-product-subarray](https://github.com/karshPC/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karshPC/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karshPC/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/karshPC/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karshPC/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/karshPC/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/karshPC/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karshPC/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karshPC/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karshPC/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/karshPC/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/karshPC/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/karshPC/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/karshPC/LeetCode/tree/master/0704-binary-search) |
@@ -658,6 +661,7 @@ A collection of LeetCode questions that I have worked on till date
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/karshPC/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1872-stone-game-viii](https://github.com/karshPC/LeetCode/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/karshPC/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/karshPC/LeetCode/tree/master/3904-smallest-stable-index-ii) |
