@@ -20,6 +20,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/karshPC/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/karshPC/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/karshPC/LeetCode/tree/master/0767-reorganize-string) |
+| [0904-fruit-into-baskets](https://github.com/karshPC/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/karshPC/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1202-smallest-string-with-swaps](https://github.com/karshPC/LeetCode/tree/master/1202-smallest-string-with-swaps) |
 | [1331-rank-transform-of-an-array](https://github.com/karshPC/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0219-contains-duplicate-ii](https://github.com/karshPC/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/karshPC/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/karshPC/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/karshPC/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/karshPC/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karshPC/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/karshPC/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0704-binary-search](https://github.com/karshPC/LeetCode/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/karshPC/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/karshPC/LeetCode/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/karshPC/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/karshPC/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/karshPC/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/karshPC/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
