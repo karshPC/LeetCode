@@ -8,6 +8,7 @@ public:
         int maxSize = INT_MIN;
 
         while(high<n){
+            
             f[fruits[high]]++;
 
             while(f.size() > 2){
