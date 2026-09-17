@@ -1,22 +1,40 @@
 class Solution {
 public:
+
+    int find(vector<int> f){
+        return *max_element(f.begin(), f.end());
+    }
+
     int characterReplacement(string s, int k) {
-        int left = 0, right = 0, maxLen = 0, maxFreq = 0;
+        int low = 0;
+        int n = s.size();
 
-        vector <int> freq(26,0);
+        // unordered_map<char,int> f;
+        // Whenever a string question, make a vector as it will be constant space
+        // Because max number of char is 26 O(26) is a constant operation
+        
+        vector<int> f(256,0); // total 256 characters
+        int maxRes = 0;
 
-        while (right < s.size()){
-            freq[s[right]-'A']++;
-            maxFreq = max(maxFreq, freq[s[right]-'A']);
+        for(int high = 0; high < n; high++){
+            f[s[high]]++;
+            int len = high-low+1;
+            int maxCnt = find(f);
+            int diff = len-maxCnt;
 
-            while ((right-left+1) - maxFreq > k){
-                freq[s[left]-'A']--;
-                left++;
+            while(diff > k){
+                f[s[low]]--;
+                low++;
+
+                len = high-low+1;
+                maxCnt = find(f);
+                diff= len-maxCnt;
             }
-            
-            maxLen = max(right-left+1,maxLen);
-            right++;
+
+            len = high - low +1;
+            maxRes = max(maxRes, len);
         }
-    return maxLen;
+
+    return maxRes;
     }
 };
