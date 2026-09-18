@@ -27,6 +27,7 @@ A collection of LeetCode questions that I have worked on till date
 | [1331-rank-transform-of-an-array](https://github.com/karshPC/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/karshPC/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/karshPC/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/karshPC/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karshPC/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karshPC/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karshPC/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions that I have worked on till date
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karshPC/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/karshPC/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1202-smallest-string-with-swaps](https://github.com/karshPC/LeetCode/tree/master/1202-smallest-string-with-swaps) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/karshPC/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/karshPC/LeetCode/tree/master/1927-sum-game) |
 | [1987-number-of-unique-good-subsequences](https://github.com/karshPC/LeetCode/tree/master/1987-number-of-unique-good-subsequences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/karshPC/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions that I have worked on till date
 | [1331-rank-transform-of-an-array](https://github.com/karshPC/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/karshPC/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karshPC/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/karshPC/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/karshPC/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/karshPC/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/karshPC/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0502-ipo](https://github.com/karshPC/LeetCode/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/karshPC/LeetCode/tree/master/0767-reorganize-string) |
 | [1386-cinema-seat-allocation](https://github.com/karshPC/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/karshPC/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/karshPC/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/karshPC/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/karshPC/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
