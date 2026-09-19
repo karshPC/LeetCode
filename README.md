@@ -364,6 +364,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0628-maximum-product-of-three-numbers](https://github.com/karshPC/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/karshPC/LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/karshPC/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/karshPC/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/karshPC/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/karshPC/LeetCode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/karshPC/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/karshPC/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/karshPC/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Matrix
 |  |
 | ------- |
