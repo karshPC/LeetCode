@@ -347,6 +347,7 @@ A collection of LeetCode questions that I have worked on till date
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/karshPC/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karshPC/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/karshPC/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/karshPC/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Design
 |  |
 | ------- |
@@ -383,6 +384,7 @@ A collection of LeetCode questions that I have worked on till date
 | [3536-maximum-product-of-two-digits](https://github.com/karshPC/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/karshPC/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/karshPC/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/karshPC/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karshPC/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/karshPC/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/karshPC/LeetCode/tree/master/3871-count-commas-in-range-ii) |
