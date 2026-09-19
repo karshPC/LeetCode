@@ -346,6 +346,7 @@ A collection of LeetCode questions that I have worked on till date
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/karshPC/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/karshPC/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karshPC/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/karshPC/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Design
 |  |
 | ------- |
@@ -692,6 +693,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0209-minimum-size-subarray-sum](https://github.com/karshPC/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/karshPC/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/karshPC/LeetCode/tree/master/1872-stone-game-viii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/karshPC/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3903-smallest-stable-index-i](https://github.com/karshPC/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/karshPC/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Data Stream
