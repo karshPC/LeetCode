@@ -1,8 +1,10 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-        int low = 0, maxFruits = 0, n = fruits.size();
+        int low = 0;
+        int maxFruits = INT_MIN;
         unordered_map<int,int> f;
+        int n = fruits.size();
 
         for(int high = 0; high < n; high++){
             f[fruits[high]]++;
@@ -16,7 +18,8 @@ public:
             }
 
             int currFruits = high-low+1;
-            maxFruits = max(currFruits, maxFruits);
+            maxFruits = max(maxFruits, currFruits);
+
         }
     return maxFruits;
     }
