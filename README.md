@@ -9,6 +9,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0001-two-sum](https://github.com/karshPC/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/karshPC/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/karshPC/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/karshPC/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/karshPC/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/karshPC/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/karshPC/LeetCode/tree/master/0146-lru-cache) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0020-valid-parentheses](https://github.com/karshPC/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/karshPC/LeetCode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/karshPC/LeetCode/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/karshPC/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/karshPC/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/karshPC/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/karshPC/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/karshPC/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/karshPC/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/karshPC/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/karshPC/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/karshPC/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
