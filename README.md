@@ -262,6 +262,7 @@ A collection of LeetCode questions that I have worked on till date
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/karshPC/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/karshPC/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/karshPC/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/karshPC/LeetCode/tree/master/0092-reverse-linked-list-ii) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions that I have worked on till date
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/karshPC/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/karshPC/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/karshPC/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/karshPC/LeetCode/tree/master/0143-reorder-list) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions that I have worked on till date
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/karshPC/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/karshPC/LeetCode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/karshPC/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/karshPC/LeetCode/tree/master/0509-fibonacci-number) |
