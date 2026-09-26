@@ -282,6 +282,7 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karshPC/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/karshPC/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karshPC/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karshPC/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/karshPC/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions that I have worked on till date
 | ------- |
 | [0002-add-two-numbers](https://github.com/karshPC/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/karshPC/LeetCode/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/karshPC/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/karshPC/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/karshPC/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karshPC/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -756,4 +758,8 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/karshPC/LeetCode/tree/master/0020-valid-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/karshPC/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
