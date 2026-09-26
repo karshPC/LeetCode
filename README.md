@@ -749,4 +749,8 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/karshPC/LeetCode/tree/master/0075-sort-colors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/karshPC/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
