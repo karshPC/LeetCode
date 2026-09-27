@@ -697,6 +697,7 @@ A collection of LeetCode questions that I have worked on till date
 | ------- |
 | [0141-linked-list-cycle](https://github.com/karshPC/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/karshPC/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/karshPC/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Minimax
 |  |
 | ------- |
@@ -762,4 +763,8 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/karshPC/LeetCode/tree/master/0069-sqrtx) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/karshPC/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
