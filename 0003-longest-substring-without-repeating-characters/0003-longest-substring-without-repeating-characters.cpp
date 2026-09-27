@@ -21,7 +21,7 @@ public:
                 len = high-low+1;
             }
 
-            len = high - low + 1;
+
             maxLen = max(len, maxLen);
         }
 
