@@ -2,29 +2,29 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         int low = 0;
-        int maxRes = INT_MIN;
-        unordered_map<int,int> f;
+        int maxLen = 0;
+        unordered_map<char,int> f;
         int n = s.size();
+        int len = 0;
 
-        for(int high = 0; high<n; high++){
+        for(int high = 0; high < n; high++){
             f[s[high]]++;
-            int k = high-low+1;
+            len = high-low+1;
 
-            while(f.size() < k){
+            while(len > f.size()){
                 f[s[low]]--;
                 if(f[s[low]] == 0){
                     f.erase(s[low]);
                 }
                 low++;
-                k = high-low+1;
+
+                len = high-low+1;
             }
 
-            // Whatever code goes below has f.size() == k, which means the size of the hashmap and the size
-            // of the string are same, i.e. no repeating/duplicate characters;
-
-            int len = high-low+1;
-            maxRes = max(maxRes, len);
+            len = high - low + 1;
+            maxLen = max(len, maxLen);
         }
-    return (maxRes == INT_MIN) ? 0 : maxRes;
+
+    return maxLen;
     }
 };
