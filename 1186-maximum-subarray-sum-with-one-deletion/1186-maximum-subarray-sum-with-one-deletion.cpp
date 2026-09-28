@@ -1,12 +1,12 @@
 class Solution {
 public:
     int maximumSum(vector<int>& arr) {
-        int res = arr[0];
+        int n = arr.size();
         int withPower = arr[0];
         int withoutPower = arr[0];
-        int n = arr.size();
+        int res = arr[0];
 
-        for(int i =1; i < n; i++){
+        for(int i = 1; i < n; i++){
             int v1 = arr[i];
             int v2 = withoutPower + arr[i];
 
@@ -16,7 +16,8 @@ public:
             withoutPower = max(v1,v2);
             withPower = max(v3,v4);
 
-            res = max(res, max(withPower, withoutPower));
+            res = max(res, max(withoutPower, withPower));
+
         }
     return res;
     }
