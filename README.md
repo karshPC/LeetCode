@@ -63,6 +63,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0424-longest-repeating-character-replacement](https://github.com/karshPC/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/karshPC/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/karshPC/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0761-special-binary-string](https://github.com/karshPC/LeetCode/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/karshPC/LeetCode/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karshPC/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/karshPC/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0658-find-k-closest-elements](https://github.com/karshPC/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/karshPC/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/karshPC/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0761-special-binary-string](https://github.com/karshPC/LeetCode/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/karshPC/LeetCode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/karshPC/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/karshPC/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0148-sort-list](https://github.com/karshPC/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karshPC/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/karshPC/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/karshPC/LeetCode/tree/master/0761-special-binary-string) |
 | [0973-k-closest-points-to-origin](https://github.com/karshPC/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
