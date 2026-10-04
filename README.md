@@ -61,6 +61,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0132-palindrome-partitioning-ii](https://github.com/karshPC/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0344-reverse-string](https://github.com/karshPC/LeetCode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/karshPC/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/karshPC/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/karshPC/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/karshPC/LeetCode/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karshPC/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0145-binary-tree-postorder-traversal](https://github.com/karshPC/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/karshPC/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/karshPC/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/karshPC/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karshPC/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/karshPC/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/karshPC/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0132-palindrome-partitioning-ii](https://github.com/karshPC/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/karshPC/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/karshPC/LeetCode/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/karshPC/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/karshPC/LeetCode/tree/master/0877-stone-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/karshPC/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/karshPC/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions that I have worked on till date
 | ------- |
 | [0045-jump-game-ii](https://github.com/karshPC/LeetCode/tree/master/0045-jump-game-ii) |
 | [0502-ipo](https://github.com/karshPC/LeetCode/tree/master/0502-ipo) |
+| [0678-valid-parenthesis-string](https://github.com/karshPC/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/karshPC/LeetCode/tree/master/0767-reorganize-string) |
 | [1386-cinema-seat-allocation](https://github.com/karshPC/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/karshPC/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -767,6 +771,7 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/karshPC/LeetCode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/karshPC/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/karshPC/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/karshPC/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Newton's Method
