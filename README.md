@@ -66,6 +66,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0692-top-k-frequent-words](https://github.com/karshPC/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0761-special-binary-string](https://github.com/karshPC/LeetCode/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/karshPC/LeetCode/tree/master/0767-reorganize-string) |
+| [1021-remove-outermost-parentheses](https://github.com/karshPC/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karshPC/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/karshPC/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/karshPC/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0234-palindrome-linked-list](https://github.com/karshPC/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/karshPC/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/karshPC/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/karshPC/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karshPC/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/karshPC/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/karshPC/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions that I have worked on till date
 | ------- |
 | [0020-valid-parentheses](https://github.com/karshPC/LeetCode/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/karshPC/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/karshPC/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/karshPC/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/karshPC/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Newton's Method
