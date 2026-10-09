@@ -1,33 +1,33 @@
 class Solution {
 public:
 
-    int find(vector<int> f){
-        return *max_element(f.begin(), f.end());
+    int find(vector<int> &freq){
+        return *max_element(freq.begin(), freq.end());
     }
 
     int characterReplacement(string s, int k) {
         int low = 0;
-        int n = s.size();
         int maxCnt = INT_MIN;
-        vector<int> f(256,0);
+        int n = s.size();
+        vector<int> freq(256,0);
 
         for(int high = 0; high < n; high++){
-            f[s[high]]++;
-            int len = high-low+1;
-            int maxCurr = find(f);
-            int diff = len - maxCurr;
+            freq[s[high]]++;
+            int len = high - low + 1;
+            int maxFreq = find(freq);
+            int diff = len-maxFreq;
 
             while(diff > k){
-                f[s[low]]--;
+                freq[s[low]]--;
                 low++;
                 len = high-low+1;
-                maxCurr = find(f);
-                diff = len-maxCnt;
+                maxFreq = find(freq);
+                diff = len-maxFreq;
             }
 
-            len = high-low+1;
-            maxCnt = max(len,maxCnt);
+        maxCnt = max(maxCnt, len);        
         }
+    
     return maxCnt;
     }   
 };
