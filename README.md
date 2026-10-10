@@ -48,6 +48,7 @@ A collection of LeetCode questions that I have worked on till date
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/karshPC/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/karshPC/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/karshPC/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/karshPC/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/karshPC/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/karshPC/LeetCode/tree/master/0020-valid-parentheses) |
