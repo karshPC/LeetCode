@@ -806,4 +806,8 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/karshPC/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/karshPC/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
