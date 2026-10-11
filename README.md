@@ -810,5 +810,6 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/karshPC/LeetCode/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/karshPC/LeetCode/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/karshPC/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
