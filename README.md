@@ -162,6 +162,7 @@ A collection of LeetCode questions that I have worked on till date
 | [1004-max-consecutive-ones-iii](https://github.com/karshPC/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/karshPC/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1202-smallest-string-with-swaps](https://github.com/karshPC/LeetCode/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/karshPC/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/karshPC/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/karshPC/LeetCode/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/karshPC/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karshPC/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/karshPC/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1202-smallest-string-with-swaps](https://github.com/karshPC/LeetCode/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/karshPC/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/karshPC/LeetCode/tree/master/1306-jump-game-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/karshPC/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/karshPC/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/karshPC/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1096-brace-expansion-ii](https://github.com/karshPC/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/karshPC/LeetCode/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/karshPC/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/karshPC/LeetCode/tree/master/1306-jump-game-iii) |
 | [2685-count-the-number-of-complete-components](https://github.com/karshPC/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/karshPC/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [1202-smallest-string-with-swaps](https://github.com/karshPC/LeetCode/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/karshPC/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/karshPC/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/karshPC/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Enumeration
@@ -639,6 +643,7 @@ A collection of LeetCode questions that I have worked on till date
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/karshPC/LeetCode/tree/master/0064-minimum-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/karshPC/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/karshPC/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/karshPC/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/karshPC/LeetCode/tree/master/1672-richest-customer-wealth) |
