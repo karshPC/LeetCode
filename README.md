@@ -99,6 +99,7 @@ A collection of LeetCode questions that I have worked on till date
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/karshPC/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/karshPC/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3838-weighted-word-mapping](https://github.com/karshPC/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/karshPC/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/karshPC/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/karshPC/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
@@ -209,6 +210,7 @@ A collection of LeetCode questions that I have worked on till date
 | [3731-find-missing-elements](https://github.com/karshPC/LeetCode/tree/master/3731-find-missing-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/karshPC/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3838-weighted-word-mapping](https://github.com/karshPC/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/karshPC/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karshPC/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/karshPC/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/karshPC/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions that I have worked on till date
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karshPC/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/karshPC/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/karshPC/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/karshPC/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Stack
 |  |
 | ------- |
@@ -389,6 +392,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0347-top-k-frequent-elements](https://github.com/karshPC/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/karshPC/LeetCode/tree/master/0761-special-binary-string) |
 | [0973-k-closest-points-to-origin](https://github.com/karshPC/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/karshPC/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -537,6 +541,7 @@ A collection of LeetCode questions that I have worked on till date
 | [2685-count-the-number-of-complete-components](https://github.com/karshPC/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/karshPC/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/karshPC/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/karshPC/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -667,6 +672,7 @@ A collection of LeetCode questions that I have worked on till date
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/karshPC/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/karshPC/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/karshPC/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/karshPC/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -713,6 +719,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/karshPC/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/karshPC/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/karshPC/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/karshPC/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -864,6 +871,7 @@ A collection of LeetCode questions that I have worked on till date
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/karshPC/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/karshPC/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/karshPC/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Shortest Path
 |  |
 | ------- |
