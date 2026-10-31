@@ -206,6 +206,7 @@ A collection of LeetCode questions that I have worked on till date
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/karshPC/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/karshPC/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/karshPC/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/karshPC/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/karshPC/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/karshPC/LeetCode/tree/master/3731-find-missing-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/karshPC/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions that I have worked on till date
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/karshPC/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/karshPC/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karshPC/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/karshPC/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/karshPC/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/karshPC/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Design
@@ -664,6 +666,7 @@ A collection of LeetCode questions that I have worked on till date
 | [1672-richest-customer-wealth](https://github.com/karshPC/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/karshPC/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/karshPC/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/karshPC/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 ## Segment Tree
 |  |
 | ------- |
