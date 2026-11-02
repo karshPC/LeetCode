@@ -148,6 +148,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0219-contains-duplicate-ii](https://github.com/karshPC/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/karshPC/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/karshPC/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/karshPC/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/karshPC/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/karshPC/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0502-ipo](https://github.com/karshPC/LeetCode/tree/master/0502-ipo) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0069-sqrtx](https://github.com/karshPC/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/karshPC/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/karshPC/LeetCode/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/karshPC/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/karshPC/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/karshPC/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karshPC/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
