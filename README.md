@@ -486,6 +486,7 @@ A collection of LeetCode questions that I have worked on till date
 | [3525-find-x-value-of-array-ii](https://github.com/karshPC/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/karshPC/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/karshPC/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/karshPC/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/karshPC/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/karshPC/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/karshPC/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions that I have worked on till date
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/karshPC/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/karshPC/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/karshPC/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/karshPC/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/karshPC/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/karshPC/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -743,6 +745,7 @@ A collection of LeetCode questions that I have worked on till date
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/karshPC/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/karshPC/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/karshPC/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/karshPC/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/karshPC/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
