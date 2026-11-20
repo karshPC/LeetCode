@@ -89,6 +89,7 @@ A collection of LeetCode questions that I have worked on till date
 | [2409-count-days-spent-together](https://github.com/karshPC/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/karshPC/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/karshPC/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/karshPC/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/karshPC/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karshPC/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/karshPC/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions that I have worked on till date
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/karshPC/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/karshPC/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/karshPC/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/karshPC/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/karshPC/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karshPC/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/karshPC/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions that I have worked on till date
 | [1872-stone-game-viii](https://github.com/karshPC/LeetCode/tree/master/1872-stone-game-viii) |
 | [1987-number-of-unique-good-subsequences](https://github.com/karshPC/LeetCode/tree/master/1987-number-of-unique-good-subsequences) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/karshPC/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/karshPC/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/karshPC/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/karshPC/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/karshPC/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
