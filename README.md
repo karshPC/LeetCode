@@ -243,6 +243,7 @@ A collection of LeetCode questions that I have worked on till date
 | [3903-smallest-stable-index-i](https://github.com/karshPC/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/karshPC/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/karshPC/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/karshPC/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -329,6 +330,7 @@ A collection of LeetCode questions that I have worked on till date
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/karshPC/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karshPC/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/karshPC/LeetCode/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/karshPC/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -558,6 +560,7 @@ A collection of LeetCode questions that I have worked on till date
 | [3727-maximum-alternating-sum-of-squares](https://github.com/karshPC/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/karshPC/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/karshPC/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/karshPC/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -670,6 +673,7 @@ A collection of LeetCode questions that I have worked on till date
 | [2333-minimum-sum-of-squared-difference](https://github.com/karshPC/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/karshPC/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/karshPC/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/karshPC/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/karshPC/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Quickselect
 |  |
